@@ -4,7 +4,7 @@
 
 Download PDF copy of Perusall assignments via the assignment url.
 
->[!IMPORTANT] Use at your own risk! (I am not responsible for any damage to your account or computer)
+>**[IMPORTANT]** Use at your own risk! (I am not responsible for any damage to your account or computer)
 
 ## How to Run
 
